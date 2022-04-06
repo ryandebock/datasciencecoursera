@@ -1,0 +1,25 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
+-
+
+
+--
+title: "Hello World"
+author: "Ryan DeBock"
+date: '2022-04-06'
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+
+## This is a markdown file
+
+
